@@ -1,4 +1,4 @@
-# MeetingAstronomiaAndes2
+# WorkshopAstronomiaAndes2
 
 Workshop Astronomia en los Andes 2
 28 - 31 de Julio
